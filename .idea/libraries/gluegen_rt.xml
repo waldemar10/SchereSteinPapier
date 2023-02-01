@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="gluegen-rt">
+    <CLASSES>
+      <root url="jar://C:/Program Files/Java/jogl/jogamp-all-platforms/jar/gluegen.jar!/" />
+      <root url="jar://C:/Program Files/Java/jogl/jogamp-all-platforms/jar/jogl-all.jar!/" />
+      <root url="jar://C:/Program Files/Java/opencv/build/java/opencv-454.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://C:/Program Files/Java/opencv/build/java/opencv-454.jar!/" />
+      <root url="jar://C:/Program Files/Java/opencv/build/java/opencv-454.jar!/" />
+    </SOURCES>
+  </library>
+</component>
